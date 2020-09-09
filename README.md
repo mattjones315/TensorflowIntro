@@ -5,8 +5,8 @@ Tensorflow is Google's public deep learning library, first released in 2015. Man
 In this tutorial, I'll cover the following items:
 
 1. How to identify and frame a machine learning problem
-2. How to get started right away with a plug-and-play estimator in Tensorflow 2.0
-3. How to instantiate a more sophisticated architecture for learning
+2. Running your first linear regression with Tensorflow 2.0
+3. Classification with a Neural Network
 4. Saving, loading, and checkpointing models
 5. Creating Tensorboard reports
 
