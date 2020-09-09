@@ -10,8 +10,4 @@ In this tutorial, I'll cover the following items:
 4. Saving, loading, and checkpointing models
 5. Creating Tensorboard reports
 
-## Identifying machine learning problems
-
-In common parlance, machine learning can be synonymous with anything between the Terminator and the predicting movie recommendations. To muddy the waters even more, people may use "artifical intelligence", or (AI), instead of, or in combination, with "machine learning". The fact of the matter is that most of this is marketing, and really these problems all boil down to the same task of detecting patterns and making decisions with these patterns. For some reason, "artifical intelligence" is normally used more in the context of robotics and "machine learning" is normally used more in the context of prediction. But are founded in statistical approaches for detecting patterns.
-
-With semantics out of the way, there are generally two classes of machine learning problems - **supervised** and **unsupervised** problems. The difference comes down what type of data we have.
+You can navigate to [this Colab](https://colab.research.google.com/drive/1Qf_GsRB8akTpVkcM2nUYj65dyRz7WO6t?usp=sharing) for the full tutorial.
