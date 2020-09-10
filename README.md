@@ -11,3 +11,9 @@ In this tutorial, I'll cover the following items:
 5. Creating Tensorboard reports
 
 You can navigate to [this Colab](https://colab.research.google.com/drive/1Qf_GsRB8akTpVkcM2nUYj65dyRz7WO6t?usp=sharing) for the full tutorial.
+
+# Additional Resources
+
+[Weights & Biases](https://www.wandb.com/) - A web-based UI, like Tensorboard, that also helps you track model optimization & peformance
+[Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) - Google's machine learning crash course, focused on Tensorflow 2.0 (mostly). This online resource covers _a lot_ of ground and I highly recommend it if you'd like to get working with more sophisticated models.
+[Estimator API](https://www.tensorflow.org/guide/estimator) - Another way to work with Tensorflow models which is supposed to be more straightforward though requires you to dive a bit more into the Tensorflow ecosystem. However, once you do, there are a ton of out of the box models you can use like BoostedTreeClassifiers and basic linear regression models. Take a look at all it has to offer [here](https://www.tensorflow.org/api_docs/python/tf/estimator).
